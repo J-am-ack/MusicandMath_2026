@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore big files
+*.zip
+
 # Distribution / packaging
 .Python
 build/
